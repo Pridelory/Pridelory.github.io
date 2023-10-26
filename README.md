@@ -1,0 +1,2 @@
+# Pridelory.github.io
+blog
